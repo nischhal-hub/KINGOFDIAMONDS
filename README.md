@@ -7,3 +7,5 @@ Here is a screenshot from the app.
 ![game ui](https://raw.githubusercontent.com/nischhal-hub/KINGOFDIAMONDS/main/Screenshot%20from%202023-08-08%2011-18-45.png)
 
 You can play the game [here.](https://nischhal-hub.github.io/KINGOFDIAMONDS/)
+
+JavaScript is god.
